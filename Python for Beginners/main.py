@@ -12,6 +12,7 @@ noun3 = input("Enter an noun and hit enter: ")
 verb = input("Enter an verb and hit enter: ")
 adverb2 = input("Enter an adverb and hit enter: ")
 adverb3 = input("Enter an adverb and hit enter: ")
+adverb4 = input("Enter an adverb and hit enter: ")
 adj4 = input("Enter an adverb and hit enter: ")
 
 # our story
