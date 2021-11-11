@@ -10,8 +10,6 @@ noun3 = input("Enter an noun and hit enter: ")
 adj3 = input("Enter an adjective and hit enter: ")
 verb = input("Enter an verb and hit enter: ")
 adverb2 = input("Enter an adverb and hit enter: ")
-adverb3 = input("Enter an adverb and hit enter: ")
-adverb4 = input("Enter an adverb and hit enter: ")
 adj4 = input("Enter an adjective and hit enter: ")
 past_tense_verb2 = input("Enter a past tense verb and hit enter: ")
 
