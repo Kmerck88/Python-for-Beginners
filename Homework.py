@@ -24,6 +24,34 @@
 # print("The total cost after taxes is ${s:.2f}".format(s=total_amount)) 
 
 
+# Exercise THREE: TIP CALCULATOR 
+
+
+# total_price = float(input("Please enter TOTAL of your bill: "))
+
+# tip_amount= float(input("Please enter Tip amount: "))
+
+# total_amount = float(total_price * tip_amount) 
+
+
+    
+# print("The total tip amount is ${s:.2f}".format(s=total_amount)) 
+
+
+
+# Exercise FOUR: Bill Dividends
+
+
+# total_price = float(input("Please enter TOTAL of your bill: "))
+
+# people_amount= int(input("How many people are with your party?: "))
+
+# total_amount = float(total_price /  people_amount) 
+
+
+# print("Total per person: ${s:.2f}".format(s=total_amount)) 
+
+
 
 
 
